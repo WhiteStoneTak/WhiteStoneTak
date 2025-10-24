@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Takumi Shiraishi</h1>
 <p align="center">
-17-year-old coder & skier, born in Japan (2007), studying abroad in Vancouver, Canada since age 15.
+18-year-old coder & skier, born in Japan (2007), studying abroad in Vancouver, Canada since age 15.
 </p>
 
 ## 📝 About Me
