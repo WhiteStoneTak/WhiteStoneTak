@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://wovol.com"><img alt="wovol.com" src="https://img.shields.io/badge/wovol.com-000000?style=flat-square&logo=vercel&logoColor=white"></a>
-  <a href="mailto:white.stone.tak@gmail.com"><img alt="Email" src="https://img.shields.io/badge/white.stone.tak@gmail.com-24292F?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:takumi@wovol.com"><img alt="Email" src="https://img.shields.io/badge/takumi@wovol.com-24292F?style=flat-square&logo=gmail&logoColor=white"></a>
   <img alt="拠点" src="https://img.shields.io/badge/Japan%20%2F%20Vancouver%2C%20BC-3B7DD8?style=flat-square&logo=googlemaps&logoColor=white">
 </p>
 
