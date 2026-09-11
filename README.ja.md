@@ -126,6 +126,6 @@
 
 ## 連絡先
 
-**メール:** [white.stone.tak@gmail.com](mailto:white.stone.tak@gmail.com) &nbsp;·&nbsp; **Web:** [wovol.com](https://wovol.com)
+**メール:** [takumi@wovol.com](mailto:takumi@wovol.com) &nbsp;·&nbsp; **Web:** [wovol.com](https://wovol.com)
 
 ローカルファースト AI、Apple プラットフォーム、レガシーシステム向け開発者ツール、そして手元で検証できる証拠を伴う話題であれば歓迎します。
