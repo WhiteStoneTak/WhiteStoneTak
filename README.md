@@ -126,6 +126,6 @@
 
 ## Contact
 
-**Email:** [white.stone.tak@gmail.com](mailto:white.stone.tak@gmail.com) &nbsp;·&nbsp; **Web:** [wovol.com](https://wovol.com)
+**Email:** [takumi@wovol.com](mailto:takumi@wovol.com) &nbsp;·&nbsp; **Web:** [wovol.com](https://wovol.com)
 
 Open to conversations about local-first AI, Apple-platform work, developer tooling for legacy systems, and anything involving evidence you can actually check.
