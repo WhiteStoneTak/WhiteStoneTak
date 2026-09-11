@@ -31,10 +31,10 @@
 | **vajco ai** | macOS の先回りワークスペース層。すべてオンデバイスで、データは端末外に出ない。 | Swift 6, SwiftUI, GRDB/SQLite, Apple FoundationModels, Accessibility API | 🔒 Private | [ランディングページ](https://wovol.com/lp/vajco-ai) |
 | **Sonae** | 市民単位の防災エージェント。台風 → 洪水 → 停電 → 通信途絶という災害の連鎖を、個別の事象ではなく一本の鎖として追跡する。AMD Developer Cloud Hackathon 2026 Track 3 向けに構築。 | Next.js, FastAPI, vLLM, ROCm, Qwen3.5-122B-A10B-FP8, Leaflet | 🔒 Private | [デモ](https://sonae-visitor-lp.vercel.app/) · [lablab.ai](https://lablab.ai/ai-hackathons/amd-developer/sonae/sonae-personal-disaster-ai-agent-for-each-citizen) |
 | **LegacyLens** | 日本の SIer 向け Java/Spring レガシー監査ツール。レポート内のすべての記述が、根拠となるソース行へ遡れる。 | TypeScript, Node, pnpm, Docker, JSON Schema | 🔒 Private | — |
-| **Axiom** | 楽しさ優先・プライバシー優先の AI 学習コーチ。既定でサードパーティ計測を入れない。 | React 19, Vite, Tailwind v4, shadcn/ui, Three.js, KaTeX, Zod | 🔒 Private (Wovol モノレポ内) | [axiom.wovol.com](https://axiom.wovol.com) |
-| **Lumen** | コードの *表現形式* がフロンティア LLM のコード推論精度を変えるかを検証した実証研究。情報量を揃える対照条件 (C1+) を設計。事前登録あり、9 セルの確証実験を Holm 補正。結果は 9 セルすべてで非棄却。 | Python, LaTeX | 🌐 **Public** | [リポジトリ](https://github.com/WhiteStoneTak/Lumen) · [preprint-v1](https://github.com/WhiteStoneTak/Lumen/releases/tag/preprint-v1) · [/research](https://wovol.com/research) |
-| **SEO** | サイトにコミット権を持つ人のための SEO 実務手順。散文、チェックリスト、エージェント用プレイブック。クローラもスコアリングエンジンも持たない。 | Markdown, agent skills | 🌐 **Public** | [リポジトリ](https://github.com/WhiteStoneTak/SEO) |
-| **4-bit Binary Calculator** | ビー玉式論理ゲート (XOR / AND / OR と自作の Y 分岐ゲート) で組んだ機械式 4bit 計算機。レーザーカットの 2D MDF。真理値表つきの検証パックと、失敗した試作も公開している。 | CAD (DWG), HTML デモ | 🌐 **Public** | [リポジトリ](https://github.com/WhiteStoneTak/4-bit-Binary-Calculator) |
+| **Axiom** | 楽しさ優先・プライバシー優先の AI 学習コーチ。既定でサードパーティ計測を入れない。 | React 19, Vite, Tailwind v4, shadcn/ui, Three.js, KaTeX, Zod | 🔒 Private (Wovol モノレポ内) | [ランディングページ](https://wovol.com/lp/axiom) |
+| **[Lumen](https://github.com/WhiteStoneTak/Lumen)** | コードの *表現形式* がフロンティア LLM のコード推論精度を変えるかを検証した実証研究。情報量を揃える対照条件 (C1+) を設計。事前登録あり、9 セルの確証実験を Holm 補正。結果は 9 セルすべてで非棄却。 | Python, LaTeX | 🌐 **Public** | [preprint-v1](https://github.com/WhiteStoneTak/Lumen/releases/tag/preprint-v1) · [/research](https://wovol.com/research) |
+| **[SEO](https://github.com/WhiteStoneTak/SEO)** | サイトにコミット権を持つ人のための SEO 実務手順。散文、チェックリスト、エージェント用プレイブック。クローラもスコアリングエンジンも持たない。 | Markdown, agent skills | 🌐 **Public** | — |
+| **[4-bit Binary Calculator](https://github.com/WhiteStoneTak/4-bit-Binary-Calculator)** | ビー玉式論理ゲート (XOR / AND / OR と自作の Y 分岐ゲート) で組んだ機械式 4bit 計算機。レーザーカットの 2D MDF。真理値表つきの検証パックと、失敗した試作も公開している。 | CAD (DWG), HTML デモ | 🌐 **Public** | — |
 | **wovol-lab** | ローカル完結の Claude Code 運用ラボ。神経科学に着想を得た記憶層 (mnemos)、4 プロファイルのブラウザ分離、そして全書き込みを 30 以上の PII / シークレットパターンで走査する日英両対応の安全網。自動送信は行わない。 | Python, shell hooks | 🔒 Private | — |
 
 > 🔒 private リポジトリも載せているのは、実際の作業の大半がそこで起きているため。上のリンクは本当に公開されている部分 (デモ、ランディングページ、紹介記事) に限っている。

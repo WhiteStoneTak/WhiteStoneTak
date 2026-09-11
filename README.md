@@ -19,7 +19,7 @@
 
 ## Now
 
-- **vajco ai** (private) — an anticipatory workspace layer for macOS. Press a hotkey and the thing you were about to resume is already prepared: repo, branch, tabs, cwd, and an on-device summary. Swift 6 / SwiftUI, ~240 sources, notarized `0.1.0` builds. [Landing page →](https://wovol.com/lp/vajco-ai)
+- **vajco ai** (private) — an anticipatory workspace layer for macOS. Press a hotkey and the thing you were about to resume is already prepared: repo, branch, tabs, cwd, and an on-device summary. Swift 6 / SwiftUI, ~240 sources, notarized `0.1.0` builds. [Landing Page →](https://wovol.com/lp/vajco-ai)
 - **Sonae** (private) — one personalized disaster-response agent per citizen, 8,000 of them reasoning in parallel on a single AMD Instinct MI300X. [Live demo →](https://sonae-visitor-lp.vercel.app/) · [Write-up →](https://lablab.ai/ai-hackathons/amd-developer/sonae/sonae-personal-disaster-ai-agent-for-each-citizen)
 - **LegacyLens** (private) — self-hosted Java/Spring legacy comprehension that emits evidence-linked HTML/PDF reports plus a machine-readable `evidence.json`. No managed backend, runs entirely on the customer's machine.
 - At **iOSDC Japan 2026** this week. Say hi if you are there.
@@ -28,13 +28,13 @@
 
 | Project | What it is | Stack | Repo | Links |
 | --- | --- | --- | --- | --- |
-| **vajco ai** | Anticipatory macOS workspace layer. On-device only, nothing leaves the machine. | Swift 6, SwiftUI, GRDB/SQLite, Apple FoundationModels, Accessibility API | 🔒 Private | [Landing page](https://wovol.com/lp/vajco-ai) |
+| **vajco ai** | Anticipatory macOS workspace layer. On-device only, nothing leaves the machine. | Swift 6, SwiftUI, GRDB/SQLite, Apple FoundationModels, Accessibility API | 🔒 Private | [Landing Page](https://wovol.com/lp/vajco-ai) |
 | **Sonae** | Per-citizen disaster-response agents. Cascades tracked as a chain (typhoon → flood → outage → comms failure), not isolated events. Built for AMD Developer Cloud Hackathon 2026, Track 3. | Next.js, FastAPI, vLLM, ROCm, Qwen3.5-122B-A10B-FP8, Leaflet | 🔒 Private | [Demo](https://sonae-visitor-lp.vercel.app/) · [lablab.ai](https://lablab.ai/ai-hackathons/amd-developer/sonae/sonae-personal-disaster-ai-agent-for-each-citizen) |
 | **LegacyLens** | Legacy Java/Spring audit tool for Japanese SIer firms. Every claim in the report links back to the source line that justifies it. | TypeScript, Node, pnpm, Docker, JSON Schema | 🔒 Private | — |
-| **Axiom** | Joy-first, privacy-first AI study coach. No third-party telemetry by default. | React 19, Vite, Tailwind v4, shadcn/ui, Three.js, KaTeX, Zod | 🔒 Private (Wovol monorepo) | [axiom.wovol.com](https://axiom.wovol.com) |
-| **Lumen** | Empirical study of whether code *representation* changes frontier-LLM code reasoning, with an information-parity control (C1+). Preregistered, nine-cell confirmatory family, Holm-corrected. Result: non-rejection on all nine cells. | Python, LaTeX | 🌐 **Public** | [Repo](https://github.com/WhiteStoneTak/Lumen) · [preprint-v1](https://github.com/WhiteStoneTak/Lumen/releases/tag/preprint-v1) · [/research](https://wovol.com/research) |
-| **SEO** | A working SEO method for people who have commit access to the site. Prose, checklists, and agent playbooks. No crawler, no scoring engine. | Markdown, agent skills | 🌐 **Public** | [Repo](https://github.com/WhiteStoneTak/SEO) |
-| **4-bit Binary Calculator** | Mechanical 4-bit calculator built from marble logic gates (XOR / AND / OR + a custom Y-split), laser-cut 2D MDF. Ships a truth-table evidence pack and the failed iterations. | CAD (DWG), HTML demo | 🌐 **Public** | [Repo](https://github.com/WhiteStoneTak/4-bit-Binary-Calculator) |
+| **Axiom** | Joy-first, privacy-first AI study coach. No third-party telemetry by default. | React 19, Vite, Tailwind v4, shadcn/ui, Three.js, KaTeX, Zod | 🔒 Private (Wovol monorepo) | [Landing Page](https://wovol.com/lp/axiom) |
+| **[Lumen](https://github.com/WhiteStoneTak/Lumen)** | Empirical study of whether code *representation* changes frontier-LLM code reasoning, with an information-parity control (C1+). Preregistered, nine-cell confirmatory family, Holm-corrected. Result: non-rejection on all nine cells. | Python, LaTeX | 🌐 **Public** | [preprint-v1](https://github.com/WhiteStoneTak/Lumen/releases/tag/preprint-v1) · [/research](https://wovol.com/research) |
+| **[SEO](https://github.com/WhiteStoneTak/SEO)** | A working SEO method for people who have commit access to the site. Prose, checklists, and agent playbooks. No crawler, no scoring engine. | Markdown, agent skills | 🌐 **Public** | — |
+| **[4-bit Binary Calculator](https://github.com/WhiteStoneTak/4-bit-Binary-Calculator)** | Mechanical 4-bit calculator built from marble logic gates (XOR / AND / OR + a custom Y-split), laser-cut 2D MDF. Ships a truth-table evidence pack and the failed iterations. | CAD (DWG), HTML demo | 🌐 **Public** | — |
 | **wovol-lab** | Local-first Claude Code ops lab: a neuroscience-inspired memory layer (mnemos), 4-profile browser isolation, and a bilingual EN+JA safety net that scans every write against 30+ PII/secret patterns. Never auto-sends. | Python, shell hooks | 🔒 Private | — |
 
 > 🔒 Private repositories are listed because they are where most of the work happens. The links above are the parts that are genuinely public: demos, landing pages, and write-ups.
